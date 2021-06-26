@@ -1,10 +1,18 @@
+<img align="center" src="https://github.com/xdisplay/xdisplay/blob/main/top.png"/>
 <br>
 <h3 align=center>i'm display!</h3>
 
 
-### 🖊 What I'm currently working on
+ <div align="center">
+  🖊 What I'm currently working on
+    </div>
+ <div align="center">
 - discord.gg/icc discord bot
-- [Discord Starter Bot](https://github.com/xdisplay/Discord-Starter-bot)
+    </div>
+     <div align="center">
+- Discord Starter Bot
+  
+  </div>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=xdisplay" alt="Profile Views">
@@ -18,3 +26,4 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdisplay&show_icons=true&theme=cobalt&count_private=true)" alt="display" />
 <p></p>
 <h3 align=center> </h3>
+<img align="center" src="https://github.com/xdisplay/xdisplay/blob/main/bottom.png"/>
