@@ -4,7 +4,7 @@
 
 
  <div align="center">
-  🖊 What I'm currently working on
+  🖊 What I'm currently working on!
     </div>
  <div align="center">
 - discord.gg/icc discord bot
